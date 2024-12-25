@@ -1,2 +1,2 @@
-export * from "./Game";
-export { default } from "./Game";
+export * from "./Game.js";
+export { default } from "./Game.js";
